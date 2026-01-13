@@ -14,7 +14,7 @@ Comprehensive, exam-focused summaries of Microsoft Learn training content for th
 
 **Total Achievement**: 208 units completed across 21 modules! 🚀
 
-### Learning Path Completion Stats
+### Learning Path Completion Statsا
 
 | Learning Path | Status | Modules | Units | Lines | Achievement |
 |---------------|--------|---------|-------|-------|-------------|
